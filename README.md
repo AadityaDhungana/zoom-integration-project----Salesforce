@@ -12,6 +12,7 @@ This project demonstrates how to integrate **Zoom REST APIs** with Salesforce us
 
 It allows users to **create, update, and cancel Zoom meetings directly from Salesforce.**
 
+Zoom Documentation Link: https://developers.zoom.us/docs/api/meetings/#tag/meetings/post/users/{userId}/meetings
 ---
 
 ## 🏗️ Architecture Overview
