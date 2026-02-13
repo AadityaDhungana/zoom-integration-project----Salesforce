@@ -250,7 +250,4 @@ git push
 
 ---
 
-## 👨‍💻 Author
 
-Salesforce Developer  
-Zoom + Apex Integration Project
